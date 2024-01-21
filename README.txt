@@ -1,0 +1,2 @@
+Нужно как-то добавить форму регистрации (файл SignUpForm.tsx), и при этом отделять регистрацию от входа. Функции signUp, наподобие signIn & signOut от next-auth не существует, и нужно писать что-то своё (https://www.calebpitan.com/blog/handling-oauth-2-sign-in-and-sign-up-distinctly-with-next-auth).
+ Нужно очень много разбираться в этом, а на момент написания этого текста я к этому желания абсолютно не имел
